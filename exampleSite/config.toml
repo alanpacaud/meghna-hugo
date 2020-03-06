@@ -1,4 +1,4 @@
-baseURL = "https://shiatsuco.com"
+baseURL = "https://shiatsuco.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
